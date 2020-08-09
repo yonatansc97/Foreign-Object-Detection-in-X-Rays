@@ -12,3 +12,6 @@ The notebook does the following:
   - it feeds the images into the DenseNet, and extracts features from variuous layers
   - it saves the pickles
   
+## dense_model.ipynb
+This notebook finetunes the DenseNet model that was loaded, based on the dataset that was created in the above notebook.
+  
