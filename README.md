@@ -17,3 +17,6 @@ This notebook finetunes the DenseNet model that was loaded, based on the dataset
   
 ## grad_cam.ipynb
 This notebook uses code from the repository: https://github.com/eclique/keras-gradcam, in order to perform GradCAM analysis on the output from the DenseNet model.
+
+## network trials.xlsx
+This excel files contains documentation regarding several trials regarding the training of the densenet model. 
