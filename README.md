@@ -14,7 +14,10 @@ The notebook does the following:
   
 ## dense_model.ipynb
 This notebook finetunes the DenseNet model that was loaded, based on the dataset that was created in the above notebook.
-  
+
+## resnet.ipynb
+This note book finetunes an imagenet resnet, based on the dataset that was created in the aforementioned notebook.
+
 ## grad_cam.ipynb
 This notebook uses code from the repository: https://github.com/eclique/keras-gradcam, in order to perform GradCAM analysis on the output from the DenseNet model.
 
